@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I’m Jacob 👋
 
-<!--
-**JacobREdwards/JacobREdwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.S. Applied AI student @ University of San Diego**  
+Passionate about ML, geospatial analysis, and clean code.
 
-Here are some ideas to get you started:
+📫 **How to reach me**  
+• Email: Jacobredwards2001@gmail.com  
+• [LinkedIn](https://linkedin.com/in/jacob-r-edwards)  
+• [Résumé (PDF)](https://github.com/JacobREdwards/JacobREdwards/blob/main/Jacob-Edwards-Resume.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Featured Projects
+
+### Traffic Accident Predictor  
+A machine-learning model (Logistic Regression, Random Forest & XGBoost)  
+• Tech: Python · scikit-learn · geopandas · Jupyter  
+• [Repo](https://github.com/JacobREdwards/traffic-accident-predictor) • ![screenshot](./assets/traffic.gif)
+
+### Drug Review Sentiment Analysis  
+NLP pipeline using spaCy & transformers for sentiment scoring  
+• Tech: Python · spaCy · HuggingFace · Streamlit  
+• [Repo](https://github.com/JacobREdwards/drug-review-sentiment) • ![screenshot](./assets/drug.gif)
+
+
+
