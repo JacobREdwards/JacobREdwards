@@ -1,7 +1,7 @@
 # Hi there, I’m Jacob 👋
 
 **M.S. Applied AI student @ University of San Diego**  
-Passionate about ML, geospatial analysis, and clean code.
+Passionate about ML, Data Science, and clean code.
 
 📫 **How to reach me**  
 • Email: Jacobredwards2001@gmail.com  
