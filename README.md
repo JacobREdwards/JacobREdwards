@@ -1,4 +1,6 @@
-# Hi there, I’m Jacob 👋
+# Jacob Edwards
+
+M.S. Applied Artificial Intelligence candidate at the University of San Diego.
 
 ## What I Do
 I build machine learning and data science projects with Python and SQL, with a focus on data cleaning, exploratory analysis, predictive modeling, and NLP. I’m especially interested in turning messy real-world datasets into models and tools that support clearer decisions.
