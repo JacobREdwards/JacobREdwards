@@ -1,7 +1,7 @@
 # Hi there, I’m Jacob 👋
 
-**M.S. Applied AI student @ University of San Diego**  
-Passionate about ML, Data Science, and clean code.
+## What I Do
+I build machine learning and data science projects with Python and SQL, with a focus on data cleaning, exploratory analysis, predictive modeling, and NLP. I’m especially interested in turning messy real-world datasets into models and tools that support clearer decisions.
 
 📫 **How to reach me**  
 • Email: Jacobredwards2001@gmail.com  
