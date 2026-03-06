@@ -32,7 +32,7 @@ Exploratory data analysis and preprocessing workflow for hydroponics IoT sensor 
 **Tech:** Python, spaCy, Hugging Face, Streamlit  
 [View Repository](https://github.com/JacobREdwards/drug-review-sentiment)
 
-![Drug review project screenshot](./assets/drug.gif)
+
 
 
 
